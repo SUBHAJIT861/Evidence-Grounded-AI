@@ -5,3 +5,4 @@ requests
 fonttools
 beautifulsoup4
 pypdf
+sentence-transformers
