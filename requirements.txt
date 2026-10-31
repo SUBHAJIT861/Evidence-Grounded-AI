@@ -6,3 +6,4 @@ fonttools
 beautifulsoup4
 pypdf
 sentence-transformers
+faiss-cpu
